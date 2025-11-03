@@ -11,7 +11,7 @@ My projects explore how code, data, and models interact to improve efficiency an
 ## 🚀 Featured Projects
 
 ### 🧠 AI-Powered Roommate Matching Platform — *ShareSpace*
-[![GitHub]([https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/junejinho620/sharespace_project](https://github.com/junejinho620/sharespace_project))
+[![GitHub]](https://github.com/junejinho620/sharespace_project](https://github.com/junejinho620/sharespace_project))
 
 AI-driven roommate matching platform that uses profile similarity modeling and real-time communication to connect users safely and efficiently.
 
