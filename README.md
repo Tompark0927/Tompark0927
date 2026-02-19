@@ -1,7 +1,7 @@
 ### Hi, I'm Tom 👋  
 
 🎓 **B.Sc. Mathematics @ Durham University**  
-💹 Interested in **Quantitative Finance · Data Analytics · Software Engineering**
+💹 Interested in **Quantitative Finance · Data Analytics · risk analysis**
 
 I combine mathematical reasoning with practical software design — building data-driven tools that solve real problems.  
 My projects explore how code, data, and models interact to improve efficiency and decision-making in both business and technology contexts.
@@ -41,14 +41,14 @@ Mobile app prototype built for a transport company to automate bus route and dri
 ### 🧮 Skills
 **Programming:** Python · JavaScript · SQL · R · HTML/CSS  
 **Frameworks:** React Native · Node.js · Express · Sequelize · Fastify  
-**Finance / Quant Tools:** Excel · Power BI · NumPy · pandas · Monte Carlo Simulation  
+**Finance / Quant Tools:** Excel · NumPy · pandas · Monte Carlo Simulation  
 **Other:** Git · VS Code · Data Visualization · Statistical Modelling  
 
 ---
 
 📊 *Currently exploring the intersection of mathematics, finance, and technology.*  
 📫 Reach me at **tompark0927@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/tom-park)
-## Hi there 👋
+
 
 <!--
 **Tompark0927/Tompark0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
