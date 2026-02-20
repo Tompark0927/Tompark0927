@@ -13,6 +13,7 @@ My work integrates statistical modelling, stochastic processes, optimisation the
 ---
 
 ## 📊 RiskLab — Institutional-Grade Risk Analytics Engine
+[![GitHub]](https://github.com/Tompark0927/risk-analytics](https://github.com/Tompark0927/risk-analytics))
 
 A professional multi-page portfolio risk system designed to replicate institutional risk desk tooling.
 
@@ -52,6 +53,7 @@ A professional multi-page portfolio risk system designed to replicate institutio
 ---
 
 ## 📈 QuantLab — Alpha Research & Portfolio Optimisation Framework
+[![GitHub]](https://github.com/Tompark0927/quant](https://github.com/Tompark0927/quant))
 
 A quantitative research environment for systematic factor analysis and portfolio construction.
 
@@ -87,6 +89,7 @@ A quantitative research environment for systematic factor analysis and portfolio
 ---
 
 ## 🤖 Investment App — AI Ensemble Investment Platform
+[![GitHub]](https://github.com/Tompark0927/investment-app](https://github.com/Tompark0927/investment-app))
 
 A full-stack AI-driven stock intelligence system integrating ML forecasting, factor grading, and macro regime analysis.
 
@@ -177,6 +180,6 @@ FastAPI · React · Next.js · Node.js
 ---
 
 📫 Contact: **tompark0927@gmail.com**  
-🔗 LinkedIn: https://linkedin.com/in/tom-park  
+ 
 
 *Building systems at the intersection of mathematics, AI, and financial markets.*
