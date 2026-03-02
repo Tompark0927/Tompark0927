@@ -15,8 +15,7 @@ My work integrates statistical modelling, stochastic processes, optimisation the
 ---
 
 ## 🧠 FZA System — Structural Continual Learning Architecture
-[![GitHub]](https://github.com/Tompark0927/catastrophic-forgetting-ai](https://github.com/Tompark0927/catastrophic-forgetting-ai))
-
+[![GitHub]](https://github.com/Tompark0927/catastrophic-forgetting-ai)
 A modular neural architecture prototype designed to mitigate catastrophic forgetting through structural memory partitioning and parameter control.
 
 **Stack:** Python · PyTorch · FAISS · Sentence-Transformers · Anthropic API  
@@ -50,7 +49,7 @@ A modular neural architecture prototype designed to mitigate catastrophic forget
 ---
 
 ## 📊 RiskLab — Institutional-Grade Risk Analytics Engine
-[![GitHub]](https://github.com/Tompark0927/risk-analytics](https://github.com/Tompark0927/risk-analytics))
+[![GitHub]](https://github.com/Tompark0927/risk-analytics)
 
 A professional multi-page portfolio risk system designed to replicate institutional risk desk tooling.
 
@@ -90,7 +89,7 @@ A professional multi-page portfolio risk system designed to replicate institutio
 ---
 
 ## 📈 QuantLab — Alpha Research & Portfolio Optimisation Framework
-[![GitHub]](https://github.com/Tompark0927/quant](https://github.com/Tompark0927/quant))
+[![GitHub]](https://github.com/Tompark0927/quant)
 
 A quantitative research environment for systematic factor analysis and portfolio construction.
 
@@ -126,7 +125,7 @@ A quantitative research environment for systematic factor analysis and portfolio
 ---
 
 ## 🤖 Investment App — AI Ensemble Investment Platform
-[![GitHub]](https://github.com/Tompark0927/investment-app](https://github.com/Tompark0927/investment-app))
+[![GitHub]](https://github.com/Tompark0927/investment-app)
 
 A full-stack AI-driven stock intelligence system integrating ML forecasting, factor grading, and macro regime analysis.
 
@@ -162,7 +161,7 @@ A full-stack AI-driven stock intelligence system integrating ML forecasting, fac
 ---
 
 ## 🧠 ShareSpace — AI Similarity Matching Platform
-[![GitHub]](https://github.com/junejinho620/sharespace_project](https://github.com/junejinho620/sharespace_project))
+[![GitHub]](https://github.com/junejinho620/sharespace_project)
 Full-stack AI-powered roommate matching system using semantic similarity modelling.
 
 **Stack:** Node.js · Express · MySQL · Sequelize · Socket.IO · SBERT  
