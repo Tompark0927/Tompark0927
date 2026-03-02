@@ -12,27 +12,42 @@ My work integrates statistical modelling, stochastic processes, optimisation the
 
 ---
 
-🧠 FZA System — Catastrophic Forgetting Research Framework
+---
+
+## 🧠 FZA System — Structural Continual Learning Architecture
 [![GitHub]](https://github.com/Tompark0927/catastrophic-forgetting-ai](https://github.com/Tompark0927/catastrophic-forgetting-ai))
 
-Experimental AI architecture exploring structural solutions to catastrophic forgetting in neural networks
+A modular neural architecture prototype designed to mitigate catastrophic forgetting through structural memory partitioning and parameter control.
 
-Core Idea: Flexible Zone Architecture (FZA)
-Root Zone: Protected long-term knowledge
-Trunk Zone: Adaptable learned representations
-Leaf Zone: Flushable short-term memory
+**Stack:** Python · PyTorch · FAISS · Sentence-Transformers · Anthropic API  
 
-Key Components
-FAISS-based vector memory (RAG integration)
-Automated semantic memory extraction via SLMs
-PyTorch-based zonal locking (requires_grad=False) prototypes
-Offline weight persistence and structural memory isolation
+### 🔹 Memory Architecture Design
+- Root Zone (protected long-term parameters)
+- Trunk Zone (adaptable learned representations)
+- Leaf Zone (flushable short-term context)
+- Structural memory decoupling framework
 
-Research Direction
-Continuous learning without catastrophic forgetting
-Gradient isolation & stability experimentation
-Roadmap toward native transformer-level structural freezing (EWC / LoRA / attention hooks)
-Focused on building AI systems that preserve core knowledge while adapting safely to new information.
+### 🔹 Retrieval & Knowledge Infrastructure
+- FAISS-based vector memory integration
+- Retrieval-Augmented Generation (RAG) orchestration
+- Automated semantic memory extraction via SLMs
+- Structured knowledge persistence mechanisms
+
+### 🔹 Parameter Stability Mechanisms
+- Zonal parameter locking (`requires_grad=False`)
+- Gradient isolation experiments
+- Weight export and fusion utilities
+- Offline vault-based persistence
+
+### 🔹 Continual Learning Experiments
+- Elastic Weight Consolidation (EWC) exploration
+- Dynamic LoRA adaptation concepts
+- Transformer layer freezing strategy
+- Attention / MLP structural manipulation prototypes
+
+> Designed to investigate structural approaches to stable, continuous learning in neural systems.
+
+---
 
 ## 📊 RiskLab — Institutional-Grade Risk Analytics Engine
 [![GitHub]](https://github.com/Tompark0927/risk-analytics](https://github.com/Tompark0927/risk-analytics))
