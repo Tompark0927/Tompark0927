@@ -12,6 +12,27 @@ My work integrates statistical modelling, stochastic processes, optimisation the
 
 ---
 
+🧠 FZA System — Catastrophic Forgetting Research Framework
+[![GitHub]](https://github.com/Tompark0927/catastrophic-forgetting-ai](https://github.com/Tompark0927/catastrophic-forgetting-ai))
+Experimental AI architecture exploring structural solutions to catastrophic forgetting in neural networks
+
+Core Idea: Flexible Zone Architecture (FZA)
+Root Zone: Protected long-term knowledge
+Trunk Zone: Adaptable learned representations
+Leaf Zone: Flushable short-term memory
+
+Key Components
+FAISS-based vector memory (RAG integration)
+Automated semantic memory extraction via SLMs
+PyTorch-based zonal locking (requires_grad=False) prototypes
+Offline weight persistence and structural memory isolation
+
+Research Direction
+Continuous learning without catastrophic forgetting
+Gradient isolation & stability experimentation
+Roadmap toward native transformer-level structural freezing (EWC / LoRA / attention hooks)
+Focused on building AI systems that preserve core knowledge while adapting safely to new information.
+
 ## 📊 RiskLab — Institutional-Grade Risk Analytics Engine
 [![GitHub]](https://github.com/Tompark0927/risk-analytics](https://github.com/Tompark0927/risk-analytics))
 
