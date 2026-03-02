@@ -14,6 +14,7 @@ My work integrates statistical modelling, stochastic processes, optimisation the
 
 🧠 FZA System — Catastrophic Forgetting Research Framework
 [![GitHub]](https://github.com/Tompark0927/catastrophic-forgetting-ai](https://github.com/Tompark0927/catastrophic-forgetting-ai))
+
 Experimental AI architecture exploring structural solutions to catastrophic forgetting in neural networks
 
 Core Idea: Flexible Zone Architecture (FZA)
